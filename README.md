@@ -5,7 +5,7 @@
 
 - 👯 Currently collaborating on [Weedical](https://weedical.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Mongo Db**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/florencia-taburelli/](https://www.linkedin.com/in/florencia-taburelli/)
 
