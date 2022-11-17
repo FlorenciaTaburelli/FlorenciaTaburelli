@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florenciataburelli&label=Views&color=c8ff00&style=flat-square" alt="florenciataburelli" /> </p>
 
-- 👯 Currently collaborating on [Weedical](https://weedical.netlify.app/)
+-  <img src="https://forsedi.facturacfdi.mx/admindigital/images/mercadopago-icon.png" alt="mercadolibre-logo" width="30"/> Currently working on <b>MELI</b>
 
-- 🌱 I’m currently learning **Mongo Db**
+- 🌱 I’m learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/florencia-taburelli/](https://www.linkedin.com/in/florencia-taburelli/)
+- 👨‍💻 All of my projects are available at [https://florencia-taburelli.vercel.app/](https://florencia-taburelli.vercel.app/)
 
 - 📫 How to reach me **taburelliflorencia@gmail.com**
 
-- 📄 Know about my experiences [https://docdro.id/1AsettR](https://docdro.id/1AsettR)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mOzlOHkQvowD10LSJqUPJbB7nizcIXRn/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
